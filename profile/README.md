@@ -4,6 +4,8 @@ Trading CS2 skins now brings real pleasure, because there are no more intermedia
 a child in a toy store and take everything that catches your eye
 
 
+[![653746848](https://github.com/user-attachments/assets/43023c2b-2bef-4ebb-97d3-8c307c4a58a3)](https://y.gy/cs-premium-skin)
+
 ## Functionality Explained
 
 Within the Farmskins environment, the swapping of CS2 skins directly from your personal collection is made straightforward.
