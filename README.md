@@ -4,6 +4,8 @@ Trading CS2 skins now brings real pleasure, because there are no more intermedia
 a child in a toy store and take everything that catches your eye
 
 
+[![653746848](https://github.com/user-attachments/assets/43023c2b-2bef-4ebb-97d3-8c307c4a58a3)](https://y.gy/cs-premium-skin)
+
 ## Functionality Explained
 
 Within the Farmskins environment, the swapping of CS2 skins directly from your personal collection is made straightforward.
@@ -16,7 +18,7 @@ Conversely, if the collective worth of your skins exceeds the exchange skin's pr
 
 Bullets effectively function as a universal method of payment, suitable for adjusting the transaction amount in either direction. This adaptability significantly streamlines your CS2 skin transactions, and improves your overall user experience.
 
-##How To Use The Skin Changer?
+## How To Use The Skin Changer?
 1. Click on the Skin Changer window on the main page of the Farmskins website.
 2. On the left side, in the My items window, select the item you want to exchange, click on it
 3. On the right side, in the Exchange window, select the item you want to receive in return, click on it
